@@ -9,4 +9,7 @@ The goals of developing this virtual reality project is to be able to accomplish
 - Test-driven with Unity
   - Integration
   - Contract
-  
+
+### Tech specifications
+
+- Jenkins for CI 
